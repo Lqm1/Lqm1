@@ -9,23 +9,23 @@ I'm a passionate developer with expertise in **Python** 🐍 and **TypeScript** 
 
 # 🚀 Quick Stats
 
-[![GitHub Followers](https://img.shields.io/github/followers/c7e715d1b04b17683718fb1e8944cc28?style=for-the-badge&logo=github)](https://github.com/c7e715d1b04b17683718fb1e8944cc28?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/c7e715d1b04b17683718fb1e8944cc28?style=for-the-badge&logo=github)](https://github.com/c7e715d1b04b17683718fb1e8944cc28?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/lqm1?style=for-the-badge&logo=github)](https://github.com/lqm1?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/lqm1?style=for-the-badge&logo=github)](https://github.com/lqm1?tab=repositories)
 
 ---
 
 # 🌐 Portfolio
 
-- 🖥️ **Portfolio**: [Lami's Portfolio](https://c7e715d1b04b17683718fb1e8944cc28.github.io/)
-- 📂 **Repository**: [GitHub Repository](https://github.com/c7e715d1b04b17683718fb1e8944cc28/c7e715d1b04b17683718fb1e8944cc28.github.io)
+- 🖥️ **Portfolio**: [Lami's Portfolio](https://lqm1.github.io/)
+- 📂 **Repository**: [GitHub Repository](https://github.com/lqm1/lqm1.github.io)
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=c7e715d1b04b17683718fb1e8944cc28&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lqm1&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c7e715d1b04b17683718fb1e8944cc28&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lqm1&layout=compact&theme=tokyonight)
 
 ---
 
