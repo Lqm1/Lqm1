@@ -1,33 +1,29 @@
----
 # 💡 About Me
 
 ### Hi there, I'm **Lami**! 👋
 
 I'm a passionate developer with expertise in **Python** 🐍 and **TypeScript** 🌐. My focus lies in building cutting-edge web applications using frameworks like **FastAPI** and **Next.js**. 
 
----
-
 # 🚀 Quick Stats
 
 [![GitHub Followers](https://img.shields.io/github/followers/lqm1?style=for-the-badge&logo=github)](https://github.com/lqm1?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/lqm1?style=for-the-badge&logo=github)](https://github.com/lqm1?tab=repositories)
 
----
+# 🌏 HoYoverse Stats
+
+[![Genshin Impact AR](https://enka-badges.lami.workers.dev/genshin/895578273/ar?style=for-the-badge)](https://enka.network/u/895578273/)
+[![Honkai: Star Rail TL](https://enka-badges.lami.workers.dev/hsr/834466088/tl?style=for-the-badge)](https://enka.network/hsr/834466088/)
 
 # 🌐 Portfolio
 
 - 🖥️ **Portfolio**: [Lami's Portfolio](https://lqm1.github.io/)
 - 📂 **Repository**: [GitHub Repository](https://github.com/lqm1/lqm1.github.io)
 
----
-
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lqm1&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lqm1&layout=compact&theme=tokyonight)
-
----
 
 # 🛠️ Tech Stack
 
