@@ -18,6 +18,7 @@ I'm a passionate developer with expertise in **Python** 🐍 and **TypeScript** 
 
 [![Genshin Impact AR](https://enka-badges.lami.workers.dev/genshin/895578273/ar?style=for-the-badge&logo=genshin)](https://enka.network/u/895578273/)
 [![Honkai: Star Rail TL](https://enka-badges.lami.workers.dev/hsr/834466088/tl?style=for-the-badge&logo=hsr)](https://enka.network/hsr/834466088/)
+[![Zenless Zone Zero IL](https://enka-badges.lami.workers.dev/zzz/1311324570/il?style=for-the-badge&logo=zzz)](https://enka.network/zzz/1311324570/)
 
 # 📊 GitHub Stats
 
