@@ -16,8 +16,8 @@ I'm a passionate developer with expertise in **Python** 🐍 and **TypeScript** 
 
 # 🌏 HoYoverse Stats
 
-[![Genshin Impact AR](https://enka-badges.lami.workers.dev/genshin/895578273/ar?style=for-the-badge)](https://enka.network/u/895578273/)
-[![Honkai: Star Rail TL](https://enka-badges.lami.workers.dev/hsr/834466088/tl?style=for-the-badge)](https://enka.network/hsr/834466088/)
+[![Genshin Impact AR](https://enka-badges.lami.workers.dev/genshin/895578273/ar?style=for-the-badge&logo=genshin)](https://enka.network/u/895578273/)
+[![Honkai: Star Rail TL](https://enka-badges.lami.workers.dev/hsr/834466088/tl?style=for-the-badge&logo=hsr)](https://enka.network/hsr/834466088/)
 
 # 📊 GitHub Stats
 
