@@ -49,6 +49,6 @@ I'm a passionate developer with expertise in **Python** 🐍 and **TypeScript** 
 # 📫 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kohnoselami)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:info@lami.anonaddy.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:info@lami.zip)
 
 Feel free to reach out, collaborate, or just say hi! 🚀
