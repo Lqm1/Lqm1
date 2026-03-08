@@ -38,9 +38,9 @@ class Lami:
 
 <br/>
 
-🖥️ &nbsp;**Portfolio** &nbsp;→&nbsp; [lqm1.github.io](https://lqm1.github.io/)
-📂 &nbsp;**Source** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; [github.com/lqm1](https://github.com/lqm1)
-📸 &nbsp;**Instagram** →&nbsp; [@kohnoselami](https://www.instagram.com/kohnoselami)
+🖥️ &nbsp;**Portfolio** &nbsp;→&nbsp; [lqm1.github.io](https://lqm1.github.io/)<br/>
+📂 &nbsp;**Source** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; [github.com/lqm1](https://github.com/lqm1)<br/>
+📸 &nbsp;**Instagram** →&nbsp; [@kohnoselami](https://www.instagram.com/kohnoselami)<br/>
 📬 &nbsp;**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; [info@lami.zip](mailto:info@lami.zip)
 
 </td>
@@ -71,13 +71,15 @@ class Lami:
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lqm1&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lqm1&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://streak-stats.demolab.com?user=lqm1&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=30363D&ring=7FDBFF&fire=FF6B6B&currStreakLabel=7FDBFF" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=lqm1&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=30363D&ring=7FDBFF&fire=FF6B6B&currStreakLabel=7FDBFF" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lqm1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lqm1&theme=tokyo-night&bg_color=0D1117&color=7FDBFF&line=7FDBFF&point=FF6B6B&area=true&hide_border=true" width="100%"/>
 
 </div>
 
