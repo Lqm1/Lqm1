@@ -75,10 +75,6 @@ class Lami:
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lqm1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lqm1&theme=tokyo-night&bg_color=0D1117&color=7FDBFF&line=7FDBFF&point=FF6B6B&area=true&hide_border=true" width="100%"/>
 
 </div>
