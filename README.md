@@ -93,7 +93,7 @@ class Lami:
 
 <br/>
 
-<img src="https://artifacter.lami.zip/u/895578273.png?scoreType=ER" width="100%"/>
+<img src="https://artifacter.lami.zip/u/895578273.webp?scoreType=ER" width="100%"/>
 
 </div>
 
