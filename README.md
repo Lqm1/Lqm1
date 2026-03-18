@@ -91,6 +91,10 @@ class Lami:
 [![Honkai: Star Rail TL](https://enka-badges.lami.workers.dev/hsr/834466088/tl?style=for-the-badge&logo=hsr)](https://enka.network/hsr/834466088/)
 [![Zenless Zone Zero IL](https://enka-badges.lami.workers.dev/zzz/1311324570/il?style=for-the-badge&logo=zzz)](https://enka.network/zzz/1311324570/)
 
+<br/>
+
+<img src="https://artifacter.lami.zip/u/895578273.png?scoreType=ER" width="100%"/>
+
 </div>
 
 ---
