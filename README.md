@@ -38,8 +38,7 @@ class Lami:
 
 <br/>
 
-🖥️ &nbsp;**Portfolio** &nbsp;→&nbsp; [lqm1.github.io](https://lqm1.github.io/)<br/>
-📂 &nbsp;**Source** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; [github.com/lqm1](https://github.com/lqm1)<br/>
+🖥️ &nbsp;**Portfolio** &nbsp;→&nbsp; [lami.zip](https://lami.zip/)<br/>
 📸 &nbsp;**Instagram** →&nbsp; [@kohnoselami](https://www.instagram.com/kohnoselami)<br/>
 📬 &nbsp;**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; [info@lami.zip](mailto:info@lami.zip)
 
