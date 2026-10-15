@@ -1,115 +1,59 @@
-<div align="center">
+## Lami
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lami&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=crafting%20things%20that%20run%20on%20the%20internet&descSize=16&descAlignY=60&descColor=aabbff" width="100%"/>
+Full-stack developer in Japan. I build web apps, APIs and SDKs, Discord bots,
+and a fair amount of Japanese speech / singing-voice tooling — usually on
+TypeScript, Python or Rust, and usually deployed to Cloudflare Workers.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=7FDBFF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Lami+%F0%9F%91%8B;Python+%26+TypeScript+Developer;FastAPI+%2B+Next.js+%3D+%E2%9D%A4%EF%B8%8F;Let's+build+something+cool+together!)](https://git.io/typing-svg)
+[lami.zip](https://lami.zip/) · [Blog](https://lami.zip/blog) · [info@lami.zip](mailto:info@lami.zip) · [Instagram](https://www.instagram.com/kohnoselami/)
 
-<br/>
+<br>
 
-[![GitHub Followers](https://img.shields.io/github/followers/lqm1?style=for-the-badge&logo=github&color=0D1117&labelColor=161B22)](https://github.com/lqm1?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/lqm1?style=for-the-badge&logo=github&color=0D1117&labelColor=161B22)](https://github.com/lqm1?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=lqm1&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/lqm1)
+### Things I'm working on
 
-</div>
+| | |
+| :-- | :-- |
+| **[読みちゃん / Yomi-chan](https://yomi-chan.jp/)** | Discord text-to-speech bot for Japanese, with VOICEVOX, COEIROINK, AivisSpeech and AquesTalk engines. |
+| **[Avennota](https://github.com/Lqm1/Avennota)** | A modern `oto.ini` editor for UTAU voicebanks that runs both in the browser and on the desktop. |
+| **[Artifacter](https://artifacter.lami.zip/)** | Enter a Genshin Impact UID, get a build card with artifact scores. Five languages, runs on the edge. |
+| **[Traveler Assistant](https://chromewebstore.google.com/detail/traveler-assistant/nhhfhlllflbgfenfiooogkiljlkbhgjc)** | Chrome extension for Genshin players — daily notes and build cards via HoYoLAB. |
+| **[pi-codex-app-server](https://github.com/Lqm1/pi-codex-app-server)** | Drive Pi Coding Agent from anything that speaks the Codex app-server protocol, including the ChatGPT mobile app. |
 
----
+### Libraries
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+| | |
+| :-- | :-- |
+| **[x-client-transaction-id](https://github.com/Lqm1/x-client-transaction-id)** | Generates the `x-client-transaction-id` header for X (Twitter) API requests. On [npm](https://www.npmjs.com/package/x-client-transaction-id) and JSR. |
+| **[fetch-impersonate](https://github.com/Lqm1/fetch-impersonate)** | A standard `fetch` for Node.js backed by libcurl-impersonate, for browser-like TLS fingerprints. |
+| **[shtts-rust](https://github.com/Lqm1/shtts-rust)** | Independent Rust reimplementation of the SHTTS speech synthesizer from some Nintendo DS / 3DS titles. Native + Wasm. |
+| **[AqKanji2Koe-OpenJTalk](https://github.com/Lqm1/AqKanji2Koe-OpenJTalk)** | Converts Japanese text into AquesTalk phonetic notation using jpreprocess. Rust library, CLI and C ABI. |
+| **[ciglet-rs](https://github.com/Lqm1/ciglet-rs) · [shiro-rs](https://github.com/Lqm1/shiro-rs) · [liblrhsmm-rs](https://github.com/Lqm1/liblrhsmm-rs)** | Rust ports of a signal-processing library, the SHIRO speech toolkit and its HSMM backend, with C ABI and Wasm bindings. |
 
-### ⚡ Who am I?
+### Older, still useful
 
-```python
-class Lami:
-    name     = "Lami"
-    location = "🇯🇵 Japan"
-    focus    = ["Web", "API", "Tooling"]
-    hobbies  = ["Coding", "HoYoverse 🎮"]
+[Voicebank2DiffSinger](https://github.com/Lqm1/Voicebank2DiffSinger) — turn an UTAU voicebank into a DiffSinger dataset ·
+[SOFA-oto.ini](https://github.com/Lqm1/SOFA-oto.ini) — estimate `oto.ini` with SOFA ·
+[aquestalk-server](https://github.com/Lqm1/aquestalk-server) — HTTP API for AquesTalk ·
+[COEIROINK-Dockerfile](https://github.com/Lqm1/COEIROINK-Dockerfile) ·
+[openai-workers-ai](https://github.com/Lqm1/openai-workers-ai) — OpenAI-compatible Whisper API on Workers ·
+[hoyolab-auto-sign-bot](https://github.com/Lqm1/hoyolab-auto-sign-bot)
 
-    def say_hi(self):
-        print("Let's build something!")
-```
+### Stack
 
-</td>
-<td width="50%" valign="top">
+**Languages** TypeScript, Python, Rust, Go<br>
+**Web** React, TanStack Start, Next.js, Tailwind CSS · Hono, Elysia, FastAPI<br>
+**Runtime / infra** Cloudflare Workers, Bun, Node.js, Deno, Docker<br>
+**Data** PostgreSQL, Prisma, MySQL, MongoDB
 
-### 🌐 Find me online
+<br>
 
-<br/>
+### Off the clock
 
-🖥️ &nbsp;**Portfolio** &nbsp;→&nbsp; [lami.zip](https://lami.zip/)<br/>
-📸 &nbsp;**Instagram** →&nbsp; [@kohnoselami](https://www.instagram.com/kohnoselami)<br/>
-📬 &nbsp;**Email** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; [info@lami.zip](mailto:info@lami.zip)
+Mostly HoYoverse games. This card is rendered live by Artifacter from my Genshin Impact showcase.
 
-</td>
-</tr>
-</table>
+<a href="https://artifacter.lami.zip/u/895578273">
+  <img src="https://artifacter.lami.zip/u/895578273.webp?scoreType=ER" alt="Genshin Impact build card generated by Artifacter" width="100%">
+</a>
 
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,go,php,html,css&perline=7&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,flask,express,nodejs,cloudflare,workers&perline=7&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=docker,postgres,redis,git,github,vscode,linux&perline=7&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://streak-stats.demolab.com?user=lqm1&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=30363D&ring=7FDBFF&fire=FF6B6B&currStreakLabel=7FDBFF" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lqm1&theme=tokyo-night&bg_color=0D1117&color=7FDBFF&line=7FDBFF&point=FF6B6B&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎮 HoYoverse Stats
-
-*yes, these are real-time badges*
-
-[![Genshin Impact AR](https://enka-badges.lami.workers.dev/genshin/895578273/ar?style=for-the-badge&logo=genshin)](https://enka.network/u/895578273/)
-[![Honkai: Star Rail TL](https://enka-badges.lami.workers.dev/hsr/834466088/tl?style=for-the-badge&logo=hsr)](https://enka.network/hsr/834466088/)
-[![Zenless Zone Zero IL](https://enka-badges.lami.workers.dev/zzz/1311324570/il?style=for-the-badge&logo=zzz)](https://enka.network/zzz/1311324570/)
-
-<br/>
-
-<img src="https://artifacter.lami.zip/u/895578273.webp?scoreType=ER" width="100%"/>
-
-</div>
-
----
-
-<details>
-<summary>🐍 Contribution Snake &nbsp;(click to reveal)</summary>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/lqm1/lqm1/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
-</details>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
+Genshin Impact [`895578273`](https://enka.network/u/895578273/) ·
+Honkai: Star Rail [`834466088`](https://enka.network/hsr/834466088/) ·
+Zenless Zone Zero [`1311324570`](https://enka.network/zzz/1311324570/)
