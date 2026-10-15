@@ -22,10 +22,10 @@
 </picture>
 
 <p>
-  <a href="https://yomi-chan.jp/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-yomi-chan-dark.svg"><img src="assets/card-yomi-chan-light.svg" alt="読みちゃん — Japanese text-to-speech bot for Discord" width="49%"></picture></a>
+  <a href="https://yomi-chan.jp/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-yomi-chan-dark.svg"><img src="assets/card-yomi-chan-light.svg" alt="Yomi-chan — Japanese text-to-speech bot for Discord" width="49%"></picture></a>
   <a href="https://avennota.lami.zip/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-avennota-dark.svg"><img src="assets/card-avennota-light.svg" alt="Avennota — oto.ini editor for UTAU voicebanks" width="49%"></picture></a>
   <a href="https://artifacter.lami.zip/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-artifacter-dark.svg"><img src="assets/card-artifacter-light.svg" alt="Artifacter — Genshin Impact build card generator" width="49%"></picture></a>
-  <a href="https://chromewebstore.google.com/detail/traveler-assistant/nhhfhlllflbgfenfiooogkiljlkbhgjc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-traveler-assistant-dark.svg"><img src="assets/card-traveler-assistant-light.svg" alt="旅人アシスタント — browser extension for Genshin Impact players" width="49%"></picture></a>
+  <a href="https://chromewebstore.google.com/detail/traveler-assistant/nhhfhlllflbgfenfiooogkiljlkbhgjc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-traveler-assistant-dark.svg"><img src="assets/card-traveler-assistant-light.svg" alt="Traveler Assistant — browser extension for Genshin Impact players" width="49%"></picture></a>
   <a href="https://github.com/Lqm1/x-client-transaction-id"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-x-client-transaction-id-dark.svg"><img src="assets/card-x-client-transaction-id-light.svg" alt="x-client-transaction-id — header generator for X API requests" width="49%"></picture></a>
   <a href="https://github.com/Lqm1/pi-codex-app-server"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-pi-codex-app-server-dark.svg"><img src="assets/card-pi-codex-app-server-light.svg" alt="pi-codex-app-server — Pi Coding Agent over the Codex app-server protocol" width="49%"></picture></a>
 </p>
@@ -48,7 +48,7 @@
 **Web & tooling**
 
 - [**fetch-impersonate**](https://github.com/Lqm1/fetch-impersonate) — standard `fetch` for Node.js on top of libcurl-impersonate
-- [**gigafile-mcp**](https://github.com/Lqm1/gigafile-mcp) — MCP server for uploading to / downloading from GigaFile便
+- [**gigafile-mcp**](https://github.com/Lqm1/gigafile-mcp) — MCP server for uploading to / downloading from GigaFile
 - [**openai-workers-ai**](https://github.com/Lqm1/openai-workers-ai) — OpenAI-compatible Whisper API on Cloudflare Workers
 - [**hoyolab-auto-sign-bot**](https://github.com/Lqm1/hoyolab-auto-sign-bot) — Discord bot for HoYoLAB daily check-ins, on Workers + D1
 

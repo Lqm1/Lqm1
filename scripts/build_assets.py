@@ -282,9 +282,9 @@ def glow_defs(prefix: str, t: dict, spots: list[tuple[float, float, float, int]]
 # --------------------------------------------------------------------------
 
 HERO_PHRASES = [
-    ("アイデアを、", "心地よいWeb体験に。"),
-    ("使いやすさと、", "確かな設計を形に。"),
-    ("小さく素早く作り、", "丁寧に育てる。"),
+    ("Turning ideas into", "web that feels good."),
+    ("Easy to use,", "carefully engineered."),
+    ("Ship small and fast,", "then grow it with care."),
 ]
 
 
@@ -297,8 +297,8 @@ def header(t: dict, dark: bool, images: Path) -> str:
     for i, (a, b) in enumerate(HERO_PHRASES):
         phrases.append(
             f'<g class="p p{i}">'
-            + text_path(a, 64, 238, 62, 900, t["ink"])
-            + text_path(b, 64, 318, 62, 900, t["ink"])
+            + text_path(a, 64, 238, 58, 800, t["ink"])
+            + text_path(b, 64, 314, 58, 800, t["ink"])
             + "</g>"
         )
 
@@ -390,7 +390,7 @@ def section_title(label: str, heading: str, t: dict, tone_i: int) -> str:
 PROJECTS = [
     {
         "slug": "yomi-chan",
-        "title": "読みちゃん",
+        "title": "Yomi-chan",
         "label": "Discord Bot",
         "tone": "pink",
         "desc": "Japanese text-to-speech bot for Discord, with VOICEVOX, COEIROINK, AivisSpeech and AquesTalk voices.",
@@ -417,7 +417,7 @@ PROJECTS = [
     },
     {
         "slug": "traveler-assistant",
-        "title": "旅人アシスタント",
+        "title": "Traveler Assistant",
         "label": "Browser Extension",
         "tone": "mint",
         "desc": "Daily notes and build cards from HoYoLAB, right in your browser. For Genshin Impact players.",
@@ -550,9 +550,9 @@ def main() -> None:
             f"btn-blog-{mode}.svg": button("Blog", False, t, ICONS["pen"]),
             f"btn-mail-{mode}.svg": button("info@lami.zip", False, t, ICONS["mail"]),
             f"btn-instagram-{mode}.svg": button("Instagram", False, t, ICONS["camera"]),
-            f"title-projects-{mode}.svg": section_title("FEATURED PROJECTS", "制作物", t, 0),
-            f"title-libraries-{mode}.svg": section_title("LIBRARIES & TOOLS", "ライブラリ・ツール", t, 1),
-            f"title-stack-{mode}.svg": section_title("TECH STACK", "技術スタック", t, 2),
+            f"title-projects-{mode}.svg": section_title("FEATURED WORK", "Projects", t, 0),
+            f"title-libraries-{mode}.svg": section_title("OPEN SOURCE", "Libraries & Tools", t, 1),
+            f"title-stack-{mode}.svg": section_title("TOOLBOX", "Tech Stack", t, 2),
             f"title-hoyoverse-{mode}.svg": section_title("OFF THE CLOCK", "HoYoverse", t, 0),
         }
         for p in PROJECTS:
