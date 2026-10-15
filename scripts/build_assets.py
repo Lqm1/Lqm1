@@ -17,8 +17,10 @@ from __future__ import annotations
 
 import argparse
 import base64
+import hashlib
 import io
 import math
+import re
 from xml.sax.saxutils import escape
 from functools import lru_cache
 from pathlib import Path
@@ -562,6 +564,27 @@ def main() -> None:
         for name, content in files.items():
             (OUT / name).write_text(content, encoding="utf-8")
             print(f"{name}: {len(content.encode()) // 1024} KB")
+
+    stamp_readme()
+
+
+def stamp_readme() -> None:
+    """Append a content hash to every asset URL in README.md.
+
+    GitHub's image CDN and browsers cache by URL, so an asset that changes
+    under the same name keeps showing the old version for a while.
+    """
+    readme = ROOT / "README.md"
+
+    def repl(m: re.Match) -> str:
+        path = ROOT / m.group(1)
+        if not path.exists():
+            return m.group(0)
+        digest = hashlib.sha256(path.read_bytes()).hexdigest()[:8]
+        return f"{m.group(1)}?v={digest}"
+
+    text = re.sub(r"(assets/[\w.-]+\.svg)(?:\?v=[0-9a-f]+)?", repl, readme.read_text(encoding="utf-8"))
+    readme.write_text(text, encoding="utf-8")
 
 
 if __name__ == "__main__":
